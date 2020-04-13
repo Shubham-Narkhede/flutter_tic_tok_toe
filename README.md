@@ -1,16 +1,15 @@
 # flutter_tic_tok_toe
 
-A new Flutter project.
+Created a simple game application using flutter. Tic Tok Toe. if you liked it please star it thanks.
 
-## Getting Started
+![alt text](https://github.com/Shubham-Narkhede/flutter_tic_tok_toe/blob/master/tic_tok_toe.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+##Corona Virus Tracking App
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[a link](https://github.com/Shubham-Narkhede/corona_virus_tracking_app)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/Shubham-Narkhede/corona_virus_tracking_app/blob/master/corona.png)
+
+
+
